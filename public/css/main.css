@@ -1,0 +1,135 @@
+/* custom css dashboard e-performance */
+
+.content-wrapper {
+  background-color: #E8F4FF;
+}
+img {
+  max-width: 100%;
+}
+a:focus {
+  text-decoration: none!important;
+}
+.logo-login  {
+    width: 300px;
+    height: auto;
+}
+.login-page, .register-page {
+  background-image: url('../../img/footer.png');
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+.skin-red .main-header .navbar {
+  background-color: #fff;
+}
+.skin-red .main-header .navbar .sidebar-toggle {
+  color: #666;
+}
+.skin-red .main-header .navbar .nav>li>a {
+  color: #666;
+}
+.skin-red .main-header .navbar .nav>li>a:hover,
+.skin-red .main-header .navbar .nav>li>a:active,
+.skin-red .main-header .navbar .nav>li>a:focus,
+.skin-red .main-header .navbar .nav .open>a,
+.skin-red .main-header .navbar .nav .open>a:hover,
+.skin-red .main-header .navbar .nav .open>a:focus,
+.skin-red .main-header .navbar .nav>.active>a {
+	background: #007FCD;
+	color: #f6f6f6;
+}
+.main-sidebar{
+  color: #fff;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#674EA7), to(transparent));
+  background-image: linear-gradient(180deg, transparent, transparent), linear-gradient(180deg, #007FCD, #523F8C);
+  padding-top: 0px;
+}
+.skin-red .sidebar a {
+    color: #fff;
+}
+.skin-red .sidebar a:hover {
+    color: #fff!important;
+    background-color: transparent!important;
+    border-left: 5px solid #8BD3F6;
+}
+.skin-red .sidebar-menu>li:hover>a, .skin-red .sidebar-menu>li.active>a, .skin-red .sidebar-menu>li.menu-open>a {
+  background-color: transparent!important;
+  color: #fff;
+}
+li.menu-open {
+  background-color: transparent!important;
+}
+.treeview-menu>li>a {
+    color: #fff!important;
+    border-left: 5px solid transparent;
+    white-space: normal;
+}
+.treeview-menu>.active>a {
+    color: #fff!important;
+    border-left: 5px solid #8BD3F6;
+    white-space: normal;
+}
+.sidebar-menu > li > .treeview-menu {
+    margin: 0 1px !important;
+    background: transparent!important;
+    border-left: 5px solid transparent;
+}
+.skin-red .main-header .navbar .sidebar-toggle:hover {
+  background: #007FCD!important;
+  text-decoration: none!important;
+}
+.user-panel>.image>img {
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+    object-fit: cover;
+}
+.icheck>label {
+  padding-left: 0px!important;
+}
+.top-10 {
+  padding-top: 10px;
+}
+.skin-red .sidebar-menu>li.active>a {
+  border-left: 5px solid #8BD3F6;
+}
+.content-header>.breadcrumb {
+	background: transparent;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 12px;
+	padding: 7px 5px;
+	border-radius: 2px
+}
+.breadcrumb {
+	padding: 8px 0px!important;
+	margin-bottom: 0px!important;
+	list-style: none;
+	background-color: transparent!important;
+	border-radius: 4px
+}
+.box-header {
+  background-color: #007FCD!important;
+  color: #fff!important;
+}
+.btn-box-tool {
+	padding: 5px;
+	font-size: 12px;
+	background: transparent;
+	color: #fff;
+}
+.open .btn-box-tool {
+	color: #fff!important;
+}
+.btn-box-tool:active {
+  color: #fff!important;
+}
+.btn-box-tool.focus, .btn-box-tool:focus, .btn-box-tool:hover {
+  color: inherit!important;
+}
+.swal-footer {
+  text-align: center!important;
+}
+.swal-button--confirm {
+  background-color: #007FCD!important;
+}

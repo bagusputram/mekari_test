@@ -1,4 +1,4 @@
-To Do List Application
+# dashboard-epk
 
 # How to 
 1. Pull Git 
@@ -27,6 +27,10 @@ To Do List Application
 # Credentials Data
 - Email : bagus.pm29@gmail.com
 - Username : baguspm
+- Password : qwerty
+
+- Email : tyo@bymankind.com
+- Username : tyoasn
 - Password : qwerty
 
 # Setting User Role
